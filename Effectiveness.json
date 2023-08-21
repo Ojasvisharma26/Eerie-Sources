@@ -633,7 +633,7 @@
     "name": ["Electric", "Flying"],
     "immunes": ["Ground"],
     "weaknesses": ["Ice", "Rock"],
-    "strengths": ["Water", "Bug", "Fighting", "Grass"],
+    "strengths": ["Water", "Bug", "Fighting", "Grass", "Flying"],
     "resists": ["Electric", "Bug", "Fighting", "Flying", "Steel", "Grass"]
   },
   {
@@ -1745,7 +1745,7 @@
   {
     "name": ["Dragon", "Ground"],
     "immunes": ["Electric"],
-    "weaknesses": ["Dragon", "Fairy", "Ice"],
+    "weaknesses": ["Dragon", "Fairy", "Ice", "Water"],
     "strengths": ["Fire", "Rock", "Poison", "Steel", "Electric"],
     "resists": ["Poison", "Rock", "Fire"]
   },
